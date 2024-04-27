@@ -1,0 +1,11 @@
+:root,
+  [data-bs-theme="light"] {
+    --bs-primary: #fe8340;
+    --bs-primary-rgb: 254, 131, 64;
+    --bs-secondary: #293e31;
+    --bs-secondary-rgb: 41, 62, 49;
+  } 
+
+  .fill-secondary{
+    fill: var(--bs-secondary);
+  }
